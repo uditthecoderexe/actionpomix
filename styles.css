@@ -35,7 +35,7 @@ font-size:34px;
 padding:100px;
 }
 
-@media (max-width: 900px) and (min-width: 700px) {.home{ padding:75px; font-size:20px;}.button{padding:10px;}.figure{padding:75px; font-size:20px;}
+@media  (min-width:701px) and (max-width: 900px) {.home{ padding:75px; font-size:20px;}.button{padding:10px;}.figure{padding:75px; font-size:20px;}
     
 
 }
