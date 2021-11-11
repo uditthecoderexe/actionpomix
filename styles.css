@@ -2,7 +2,7 @@
      font-size:34px;
 padding:100px;
 text-align:justify;
-     font-family: 'Open Sans', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
       
   }
 .button{background-color:black;
@@ -10,48 +10,48 @@ text-align:justify;
  padding:20px;
        color:white;
      border-radius:10px;
-     font-family: 'Open Sans', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
        }
 .navbar{background-color:#d1e2f0;
-     font-family: 'Open Sans', sans-serif;
+ font-family: 'Mochiy Pop P One', sans-serif;
 
 border-radius:none;}
 .navbar li{padding:15px 15px;
 list-style:none;
 margin:10px 10px;
 float:left;
-     font-family: 'Open Sans', sans-serif;
+font-family: 'Mochiy Pop P One', sans-serif;
 }
 .navbar li:hover{
     color:white;
  
     background-color:#03192b ;
-     font-family: 'Open Sans', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
 }
 .navbar ul{overflow:auto;}
 .navbar li a {padding:15px 15px;
 text-decoration:none;
 color:black;
-     font-family: 'Open Sans', sans-serif;
+ font-family: 'Mochiy Pop P One', sans-serif;
 }
 .navbar li a:hover{color:white;
 font-family: 'Open Sans', sans-serif;}
 .figure{background-color:yellow;
 font-size:34px;
 padding:100px;
-     font-family: 'Open Sans', sans-serif;
+font-family: 'Mochiy Pop P One', sans-serif;
 }
 
-@media  (min-width:701px) and (max-width: 900px) {.home{ padding:75px; font-size:20px;font-family: 'Open Sans', sans-serif;}.button{padding:10px;font-family: 'Open Sans', sans-serif;}.figure{padding:75px; font-size:20px;font-family: 'Open Sans', sans-serif;}
+@media  (min-width:701px) and (max-width: 900px) {.home{ padding:75px; font-size:20px;font-family: 'Mochiy Pop P One', sans-serif;}.button{padding:10px;font-family: 'Mochiy Pop P One', sans-serif;}.figure{padding:75px; font-size:20px;font-family: 'Mochiy Pop P One', sans-serif;}
     
 
 }
-@media  (max-width:700px){.home{padding:50px; font-size:15px;font-family: 'Open Sans', sans-serif;}.button{padding:10px;font-family: 'Open Sans', sans-serif;}.figure{padding:50px; font-size:15px;font-family: 'Open Sans', sans-serif;}
+@media  (max-width:700px){.home{padding:50px; font-size:15px;font-family: 'Mochiy Pop P One', sans-serif;}.button{padding:10px;font-family: 'Mochiy Pop P One', sans-serif;}.figure{padding:50px; font-size:15px;font-family: 'Mochiy Pop P One', sans-serif;}
     
 }
-@media  (min-width:1800px) and (max-width: 2500px){.home{padding:125px; font-size:45px;font-family: 'Open Sans', sans-serif;}.button{padding:25px;font-family: 'Open Sans', sans-serif;}.figure{padding:125px; font-size:45px;font-family: 'Open Sans', sans-serif;}#myimg{width:500px;}#img{width:500px;}
+@media  (min-width:1800px) and (max-width: 2500px){.home{padding:125px; font-size:45px;font-family: 'Mochiy Pop P One', sans-serif;}.button{padding:25px;font-family: 'Mochiy Pop P One', sans-serif;}.figure{padding:125px; font-size:45px;font-family: 'Mochiy Pop P One', sans-serif;}#myimg{width:500px;}#img{width:500px;}
 }
-@media  (min-width:2500px){.home{padding:175px; font-size:100px;font-family: 'Open Sans', sans-serif;}.button{padding:30px;font-family: 'Open Sans', sans-serif;}.figure{padding:175px; font-size:100px;font-family: 'Open Sans', sans-serif;}#myimg{width:800px;}#img{width:800px;}
+@media  (min-width:2500px){.home{padding:175px; font-size:100px;font-family: 'Mochiy Pop P One', sans-serif;}.button{padding:30px;font-family: 'Mochiy Pop P One', sans-serif;}.figure{padding:175px; font-size:100px;font-family: 'Mochiy Pop P One', sans-serif;}#myimg{width:800px;}#img{width:800px;}
     
 
 
