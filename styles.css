@@ -58,6 +58,6 @@ font-family: 'Mochiy Pop P One', sans-serif;
     
 
 }
-@media  (min-width:1400px) and (max-width: 1800px){.home{padding:125px; font-size:40px;font-family: 'Open Sans', sans-serif;}.button{padding:20px;font-family: 'Open Sans', sans-serif;}.figure{padding:125px; font-size:40px;font-family: 'Open Sans', sans-serif;} #img{width:300px;}#myimg{width:300px;}
+@media  (min-width:1400px) and (max-width: 1800px){.home{padding:125px; font-size:40px;font-family: 'Mochiy Pop P One', sans-serif;}.button{padding:20px;font-family: 'Mochiy Pop P One', sans-serif;}.figure{padding:125px; font-size:40px;font-family: 'Mochiy Pop P One', sans-serif;} #img{width:300px;}#myimg{width:300px;}
    
 }
